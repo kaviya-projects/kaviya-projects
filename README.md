@@ -1,10 +1,65 @@
-## 👋 Hi there, I'm Kaviya!
+# 👋 Hi, I'm Kaviya Sivakumar
 
-💻 I'm a Computer Science student passionate about building real-world projects with **Python**, **Web Development**, and **AI/ML**.
+✨ An aspiring software developer specializing in **Frontend Development** and **Python programming**  
+🎓 Currently pursuing B.E. in Computer Science and Engineering (AI & ML)  
+💡 I enjoy building interactive websites, smart tools, and real-world apps that combine logic, creativity, and clean UI design.
 
-- 🔭 Currently working on: Emotion detection, demand forecasting, and interactive web apps  
-- 🌱 Learning: Deep Learning, Flask, and advanced UI/UX  
-- 💬 Ask me about: Python, Frontend Dev, or Machine Learning  
-- 📫 Reach me at: [yourname@email.com](mailto:yourname@email.com)
+---
 
-Thanks for stopping by! ⭐
+## 🔭 I’m currently working on:
+- 🚀 Developing a responsive **client website** using HTML, CSS, JavaScript, React, Bootstrap, and JSON  
+  [Live Project Link](https://tandova-software-service.github.io/ssfabtech/index.html)  
+  📄 Freelancing updates at: [Tandova Software Service GitHub](https://github.com/Tandova-software-service)
+
+---
+
+## 🌱 I’m currently learning:
+- React and Vue for advanced frontend development  
+- Node.js and API integrations  
+- Deep Learning with Keras & TensorFlow  
+- UI/UX design improvements using Figma & Adobe XD  
+- GSAP for smooth animations
+
+---
+
+## 👨‍💻 All of my projects are available at:
+- 💻 [GitHub Portfolio](https://github.com/kaviya-projects)
+- 📝 [Live Project Updates](https://github.com/kaviya-projects)
+
+---
+
+## 📫 How to reach me:
+- Email: [kaviyasivakumar12@gmail.com](mailto:kaviyasivakumar12@gmail.com)  
+- LinkedIn: [linkedin.com/in/kaviya-sivakumar2005](https://www.linkedin.com/in/kaviya-sivakumar2005/)
+
+---
+
+## 🧠 Skills
+
+### 🖥️ Programming
+`Python` `C` `C++` `Java` `JavaScript` `HTML` `CSS` `TypeScript` `SQL`
+
+### 🌐 Frontend Development
+`React` `Vue.js` `Bootstrap` `Tailwind` `GSAP` `HTML5` `CSS3`
+
+### 🧠 AI/ML & Data
+`TensorFlow` `Keras` `OpenCV` `Pandas` `scikit-learn`
+
+### 🗄️ Backend & Databases
+`Node.js` `MongoDB` `MySQL` `Firebase`
+
+### 🧰 Tools & Others
+`Git` `GitHub` `VS Code` `Figma` `Postman` `Adobe XD`
+
+---
+
+## 🏆 GitHub Stats
+
+![Kaviya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaviya-projects&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviya-projects&layout=compact&theme=tokyonight)
+
+---
+
+## ⚡ Fun Quote
+> *Building smart, beautiful, and meaningful software — one line of code at a time.*
+
