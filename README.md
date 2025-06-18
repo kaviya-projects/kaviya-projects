@@ -37,7 +37,7 @@
 ## 🧠 Skills
 
 ### 🖥️ Programming
-`Python` `C` `C++` `Java` `JavaScript` `HTML` `CSS` `TypeScript` `SQL`
+`Python`  `Java` `JavaScript` `HTML` `CSS` `SQL`
 
 ### 🌐 Frontend Development
 `React` `Vue.js` `Bootstrap` `Tailwind` `GSAP` `HTML5` `CSS3`
@@ -49,7 +49,7 @@
 `Node.js` `MongoDB` `MySQL` `Firebase`
 
 ### 🧰 Tools & Others
-`Git` `GitHub` `VS Code` `Figma` `Postman` `Adobe XD`
+`Git` `GitHub` `VS Code` `Figma` 
 
 ---
 
