@@ -8,8 +8,12 @@
 
 ## 🔭 I’m currently working on:
 - 🚀 Developing a responsive **client website** using HTML, CSS, JavaScript, React, Bootstrap, and JSON  
-  [Live Project Link](https://tandova-software-service.github.io/ssfabtech/index.html)  
-  📄 Freelancing updates at: [Tandova Software Service GitHub](https://github.com/Tandova-software-service)
+  [Live Project Link](https://tandova-software-service.github.io/ssfabtech/index.html)
+
+- 🎨 Designing modern **UI/UX interfaces** for mobile and web apps using **Figma**, with a focus on clean layouts, usability, and visual appeal  
+  🖼️ Latest design: *Italian Food Ordering App UI (Figma)*
+
+📄 Freelancing updates at: [Tandova Software Service GitHub](https://github.com/Tandova-software-service)
 
 ---
 
