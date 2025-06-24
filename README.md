@@ -12,7 +12,8 @@
 
 - 🎨 Designing modern **UI/UX interfaces** for mobile and web apps using **Figma**, with a focus on clean layouts, usability, and visual appeal  
   🖼️ Latest design: *Italian Food Ordering App UI (Figma)*
-    [Live Project Link]((https://www.figma.com/proto/DH5VTiH5NbkqxazbihdPCQ/FIGMA?page-id=0%3A1&node-id=2203-48&p=f&viewport=-2103%2C-4191%2C0.08&t=oVGVGUWXg58p8Kcj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2203%3A262))
+    [Live Project Link](https://www.figma.com/proto/DH5VTiH5NbkqxazbihdPCQ/FIGMA?page-id=0%3A1&node-id=2203-48&p=f&viewport=-2103%2C-4191%2C0.08&t=oVGVGUWXg58p8Kcj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2203%3A262)
+   [Live Project Link](https://tandova-software-service.github.io/ssfabtech/index.html)
 
 📄 Freelancing updates at: [Tandova Software Service GitHub](https://github.com/Tandova-software-service)
 
