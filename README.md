@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaviya Sivakumar
 
-✨ An aspiring software developer specializing in **Frontend Development** and **Python programming**  
+✨ An aspiring software developer specializing in **Frontend Development** and **Python programming**  and **Computer Vision**
 🎓 Currently pursuing B.E. in Computer Science and Engineering (AI & ML)  
 💡 I enjoy building interactive websites, smart tools, and real-world apps that combine logic, creativity, and clean UI design.
 
